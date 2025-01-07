@@ -50,6 +50,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microsoft.Kiota.Bundle", "s
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microsoft.Kiota.Bundle.Tests", "tests\bundle\Microsoft.Kiota.Bundle.Tests.csproj", "{A1155A75-88FB-4C21-AA96-240A0E69FF1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Kiota.Github.500", "tests\Github.500\Microsoft.Kiota.Github.500.csproj", "{A1025F20-1CF3-429B-B388-506547E90789}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -128,6 +130,10 @@ Global
 		{A1155A75-88FB-4C21-AA96-240A0E69FF1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1155A75-88FB-4C21-AA96-240A0E69FF1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1155A75-88FB-4C21-AA96-240A0E69FF1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1025F20-1CF3-429B-B388-506547E90789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1025F20-1CF3-429B-B388-506547E90789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1025F20-1CF3-429B-B388-506547E90789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1025F20-1CF3-429B-B388-506547E90789}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
